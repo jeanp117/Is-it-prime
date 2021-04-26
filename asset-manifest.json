@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Is-it-prime/static/css/main.4425a90c.chunk.css",
+    "main.js": "/Is-it-prime/static/js/main.34463d7d.chunk.js",
+    "main.js.map": "/Is-it-prime/static/js/main.34463d7d.chunk.js.map",
+    "runtime-main.js": "/Is-it-prime/static/js/runtime-main.e443a28f.js",
+    "runtime-main.js.map": "/Is-it-prime/static/js/runtime-main.e443a28f.js.map",
+    "static/js/2.8a533ade.chunk.js": "/Is-it-prime/static/js/2.8a533ade.chunk.js",
+    "static/js/2.8a533ade.chunk.js.map": "/Is-it-prime/static/js/2.8a533ade.chunk.js.map",
+    "static/js/3.a5e92c02.chunk.js": "/Is-it-prime/static/js/3.a5e92c02.chunk.js",
+    "static/js/3.a5e92c02.chunk.js.map": "/Is-it-prime/static/js/3.a5e92c02.chunk.js.map",
+    "index.html": "/Is-it-prime/index.html",
+    "static/css/main.4425a90c.chunk.css.map": "/Is-it-prime/static/css/main.4425a90c.chunk.css.map",
+    "static/js/2.8a533ade.chunk.js.LICENSE.txt": "/Is-it-prime/static/js/2.8a533ade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e443a28f.js",
+    "static/js/2.8a533ade.chunk.js",
+    "static/css/main.4425a90c.chunk.css",
+    "static/js/main.34463d7d.chunk.js"
+  ]
+}
