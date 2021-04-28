@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Is-it-prime/static/css/main.b0979a7a.chunk.css",
-    "main.js": "/Is-it-prime/static/js/main.4b80934e.chunk.js",
-    "main.js.map": "/Is-it-prime/static/js/main.4b80934e.chunk.js.map",
+    "main.js": "/Is-it-prime/static/js/main.8f29a0a3.chunk.js",
+    "main.js.map": "/Is-it-prime/static/js/main.8f29a0a3.chunk.js.map",
     "runtime-main.js": "/Is-it-prime/static/js/runtime-main.e443a28f.js",
     "runtime-main.js.map": "/Is-it-prime/static/js/runtime-main.e443a28f.js.map",
     "static/js/2.8a533ade.chunk.js": "/Is-it-prime/static/js/2.8a533ade.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e443a28f.js",
     "static/js/2.8a533ade.chunk.js",
     "static/css/main.b0979a7a.chunk.css",
-    "static/js/main.4b80934e.chunk.js"
+    "static/js/main.8f29a0a3.chunk.js"
   ]
 }
